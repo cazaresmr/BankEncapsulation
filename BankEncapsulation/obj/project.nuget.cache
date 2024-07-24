@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K002djtTCCvWG5Bo5rskN6NAGJk4hJMV1p3uR/nkwClyQ9ZoXZmH0B6FFloF9tSnH3jCLCrvTrddu/wD6+s2Kg==",
+  "success": true,
+  "projectFilePath": "/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/BankEncapsulation/BankEncapsulation/BankEncapsulation.csproj",
+  "expectedPackageFiles": [
+    "/Users/cazaresmr/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/cazaresmr/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/cazaresmr/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
